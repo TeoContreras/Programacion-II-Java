@@ -41,4 +41,5 @@ class Vehiculo{
         }
         System.out.println("\nVelocidad actual: "+velocidadActual);
     }
+
 }
